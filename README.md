@@ -20,3 +20,6 @@ What things you need to install the software and how to install them:
 - Python 3.x
 - OpenCV library
 - NumPy library
+
+### Instructions
+annotate_all.py should be the latest for contouring of the dark spots. However, plotting and the quantification program will be improved and a new file will be uploaded. 
