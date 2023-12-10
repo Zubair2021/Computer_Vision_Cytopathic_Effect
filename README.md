@@ -1,4 +1,4 @@
-# Deep Learning: Cytopathic Effect Approach
+# Deep Learning: Cytopathic Effect using Computer Vision
 The repository contains preliminary code to utilize deep learning approach for automated detection and counting of CPE in cell culture images.
 
 **CPE Image Analysis**
