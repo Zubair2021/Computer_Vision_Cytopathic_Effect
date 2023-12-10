@@ -4,12 +4,6 @@ The repository contains preliminary code to utilize deep learning approach for a
 **CPE Image Analysis**
 
 This repository contains code and resources for the analysis of cytopathic effects (CPE) in cell culture images. The project utilizes image processing techniques to identify and count CPE areas, providing a tool for researchers and clinicians to quantify viral infections' impact on cell cultures.
-
----
-
-# Project Repository Description
-
-
 ---
 
 # README.md
